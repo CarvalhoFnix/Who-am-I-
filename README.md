@@ -22,7 +22,7 @@ OS:        GNU/Linux, Windows
 Host:      Faculdade de Análise e Desenvolvimento de Sistemas
 Kernel:    Futuro Analista de Cibersegurança
 
-Languages.Real:  Português
+Languages.Real:  Português e iniciante em inglês
 
 Foco ---------------------------------------------
 Cibersegurança · Defesa e Resposta a Incidentes
